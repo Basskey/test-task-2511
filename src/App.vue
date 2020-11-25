@@ -10,8 +10,8 @@
           <form action="" class="welcome__form form">
             <h2 class="form__title h2">Sign In</h2>
             <span class="form__subtitle">Sign in to continue access pages</span>
-            <input type="email" placeholder="Email Address" class="form__input">
-            <input type="password" placeholder="Password" class="form__input">
+            <input type="email" placeholder="Email Address" class="form__input" required>
+            <input type="password" placeholder="Password" class="form__input" required>
             <button class="form__button form__button--submit">Continue</button>
             <span class="form__social-note">or Connect with Social Media</span>
             <button class="form__button form__button--social form__button--twitter">Sign In With Twitter</button>
