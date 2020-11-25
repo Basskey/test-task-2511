@@ -12,7 +12,7 @@
             <span class="form__subtitle">Sign in to continue access pages</span>
             <input type="email" placeholder="Email Address" class="form__input" required>
             <input type="password" placeholder="Password" class="form__input" required>
-            <button class="form__button form__button--submit">Continue</button>
+            <button class="form__button form__button--submit" type="submit">Continue</button>
             <span class="form__social-note">or Connect with Social Media</span>
             <button class="form__button form__button--social form__button--twitter">Sign In With Twitter</button>
             <button class="form__button form__button--social form__button--facebook">Sign In With Facebook</button>
